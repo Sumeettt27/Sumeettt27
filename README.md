@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Sumeet Parmar </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeettt&label=Profile%20views&color=0e75b6&style=flat" alt="sumeettt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeettt27&label=Profile%20views&color=0e75b6&style=flat" alt="sumeettt27" /> </p>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="55%" height="70%" style="margin:0 50px;"> 
 
